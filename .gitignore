@@ -1,0 +1,23 @@
+logs/
+
+tests_output/
+
+# IntelliJ IDEA files
+.idea/
+
+# IntelliJ IDEA caches
+*.iws
+*.iml
+*.ipr
+
+# Node.js
+node_modules/
+
+# Selenium
+selenium/
+
+# NightwatchJS reports
+reports/
+
+# NightwatchJS screenshots
+screenshots/
